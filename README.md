@@ -39,6 +39,17 @@ Owner of a automotive tuning company specializing in:
 - Custom Tuning Solutions
 - File portal systems for file providers
 
+
+### 💼 Previous Work
+
+#### Web Development
+- [**Platinum Car - Frontend & Backend**](https://platinumcar.fi/) - React-based web application for a company in Jakobstad buying and selling used cars, detailing, and carwashing.
+  - `React` `TypeScript` `Apollo` `Strapi`
+
+#### Automotive Software
+- [**Tuning File Portal**](https://github.com/issigg/ISG-tuning-portal) - This is a file portal system for tuning companies and individuals who offer tuning services, basically an easier way of keeping track of your clients, the files and projects they send you.
+  - `Laravel`
+
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([Your_LinkedIn_URL](https://www.linkedin.com/in/isak-sjöbacka-5371962b0/))
