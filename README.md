@@ -1,7 +1,5 @@
 # 👋 Hi, I'm @issigg
 
-## 🚀 Full Stack Engineer & Automotive Software Specialist
-
 I'm a student and full-stack developer passionate about creating innovative web solutions and automotive tuning and software modification. Currently exploring the intersection of technology, automotive industry and logistics.
 
 ### 💻 Tech Stack
