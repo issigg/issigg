@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @issigg
 
-I'm a student and full-stack developer passionate about creating innovative web solutions and automotive tuning and software modification. Currently exploring the intersection of technology, automotive industry and logistics.
+I'm a student and full-stack developer passionate about creating innovative web solutions, automotive tuning and software modification. Currently exploring the intersection of technology, automotive industry and logistics.
 
 ### 💻 Tech Stack
 
@@ -13,7 +13,7 @@ I'm a student and full-stack developer passionate about creating innovative web 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🌱 Currently Learning
+### 🌱 Currently Working With
 
 - C Programming
 - C#
