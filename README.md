@@ -29,24 +29,6 @@ I'm a student and full-stack developer passionate about creating innovative web 
 - Vehicle Performance Optimization
 - Logistics
 
-### 🏎️ Automotive Tuning
-
-Owner of a automotive tuning company specializing in:
-- ECU Software Modifications
-- Performance Optimization
-- Custom Tuning Solutions
-- File portal systems for file providers
-
-
-### 💼 Previous Work
-
-#### Web Development
-- [**Platinum Car - Frontend & Backend**](https://platinumcar.fi/) - React-based web application for a company in Jakobstad buying and selling used cars, detailing, and carwashing.
-  - `React` `TypeScript` `Apollo` `Strapi`
-
-#### Automotive Software
-- [**Tuning File Portal**](https://github.com/issigg/ISG-tuning-portal) - This is a file portal system for tuning companies and individuals who offer tuning services, basically an easier way of keeping track of your clients, the files and projects they send you.
-  - `Laravel`
 
 ### 📫 Let's Connect!
 
